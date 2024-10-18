@@ -58,7 +58,7 @@
         "Use Raid Config": false,
         "Auto Join Portal": false,
         "Full Automatic Play Distance": 50,
-        "Auto Join Raid": false,
+        "Auto Join Raid": true,
         "Use Elemental Caverns Config": false,
         "Elements Macro": [],
         "Record Method": [
